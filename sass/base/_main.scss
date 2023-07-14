@@ -1,0 +1,15 @@
+.main {
+    min-height: 600px;
+    background-image: url('/images/bg_1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat ;
+    &_wrapper {
+        &_title {
+            color: #FFF;
+            text-align: center;
+            font-size: 49px;
+            font-weight: 400;
+        }
+    }
+    
+}
